@@ -1,0 +1,6 @@
+F:\RiderProjects\SHA-2\SHA-2\bin\Debug\SHA_2.exe
+F:\RiderProjects\SHA-2\SHA-2\bin\Debug\SHA_2.pdb
+F:\RiderProjects\SHA-2\SHA-2\obj\Debug\SHA-2.csprojAssemblyReference.cache
+F:\RiderProjects\SHA-2\SHA-2\obj\Debug\SHA-2.csproj.CoreCompileInputs.cache
+F:\RiderProjects\SHA-2\SHA-2\obj\Debug\SHA_2.exe
+F:\RiderProjects\SHA-2\SHA-2\obj\Debug\SHA_2.pdb
